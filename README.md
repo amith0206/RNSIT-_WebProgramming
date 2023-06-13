@@ -1,5 +1,5 @@
 # RNSIT-_WebProgramming
-This repositry contains the projects done during web programming classes 
+This repository contains the projects done during web programming classes
 1. Share your travels \
 ![Opera Snapshot_2023-06-13_171548_file2 html](https://github.com/amith0206/RNSIT-_WebProgramming/assets/118650889/bc1431f9-82b0-4d65-935f-c60df4b1fdf8)
 2. Not a real CRM \
